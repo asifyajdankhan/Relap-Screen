@@ -1,0 +1,229 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.background {
+  background-color: rgb(133, 77, 194);
+}
+.carousel-control-prev {
+  border-radius: 50%;
+}
+.background_one {
+  background-color: #fdf2ff;
+}
+.font_content {
+  font-size: 32px;
+  color: #c476ce;
+  border-radius: 100%;
+}
+.background_two {
+  background-color: #ffffff;
+}
+.mac_size {
+  width: 100%;
+}
+.commado_clr {
+  color: #c1c1c1;
+}
+.commado_text {
+  white-space: pre;
+}
+.background_three {
+  background-color: #fdf2ff;
+}
+.card_resl {
+  width: 300px;
+  height: 518px;
+}
+.shop_button {
+  background-color: white;
+  color: #dcb6de;
+  box-shadow: #dcb6de;
+}
+.card_resl1 {
+  width: 314px;
+  height: 200px;
+}
+.card_resl2 {
+  width: 95%;
+  height: 280px;
+}
+.Unde_omnis {
+  background-color: #ffffff;
+}
+.back-arrow {
+  font-size: 32px;
+  margin: 0% 0% 0% 47%;
+  cursor: pointer;
+  color: #dcb6de;
+}
+.next-arrow {
+  font-size: 32px;
+  margin: 0% 0% 0% 5%;
+  cursor: pointer;
+  margin-right: 31px;
+  color: #dcb6de;
+}
+.magni_dolores {
+  background-color: #dcb6de;
+}
+.timer {
+  justify-content: flex-end;
+  margin-right: auto;
+}
+.progress-bar {
+  background-color: #dcb6de;
+}
+.Quam_Nihil {
+  background-color: #ffffff;
+}
+.Accordian_section {
+  background-image: linear-gradient(
+    to right top,
+    #8a81a8,
+    #a581a8,
+    #bf82a0,
+    #d28592,
+    #dd8c81
+  );
+}
+
+.panel-title {
+  position: relative;
+  max-height: 100px;
+}
+.panel-title::after {
+  content: "\f107";
+  color: white;
+  top: -2px;
+  right: 0px;
+  position: absolute;
+  font-family: "FontAwesome";
+}
+.panel-title[aria-expanded="true"]::after {
+  content: "\f106";
+}
+.panel-heading-full.panel-heading {
+  padding: 0;
+}
+.one_accordiancollapse {
+  background-color: #625060;
+  border-radius: 7px;
+  top: 2px;
+}
+.addtocart_btn {
+  box-shadow: #d8155d;
+  color: #c476ce;
+  border: 1px solid #c476ce;
+}
+/* .addtocart_btn:hover {
+  color: unset;
+} */
+.aaperiam_break {
+  white-space: pre;
+}
+.back-arrow {
+  font-size: 32px;
+  cursor: pointer;
+}
+.next-arrow {
+  font-size: 32px;
+  cursor: pointer;
+  margin-right: 31px;
+}
+.card_size {
+  height: 300px;
+  width: 100%;
+}
+.home_tab_clr {
+  color: #b7b7b7;
+}
+.electronics_tab_clr {
+  color: gray;
+}
+.nav-link:hover {
+  color: unset;
+}
+.unde-omnis .nav-link.active {
+  color: black;
+  background-color: unset;
+  border-bottom: solid #bf82a0;
+  border-radius: 0;
+}
+.slick-slide {
+  margin: 0 10px;
+}
+.slick-list {
+  margin: 0 -10px;
+}
+.card-deck .card {
+  margin-left: 0%;
+}
+.magni_dolores .nav-link.active {
+  color: black;
+  background-color: unset;
+  border-bottom: solid #bf82a0;
+  border-radius: 0;
+}
+.nav-link.active :hover {
+  color: unset;
+}
+.accordian_info {
+  width: auto;
+  margin-left: 25%;
+  margin-right: 25%;
+  object-fit: cover;
+}
+.Ducimus_qui {
+  background-color: #3024ae;
+}
+.email_tab {
+  margin-top: 5%;
+  margin-left: 15px;
+}
+.footer {
+  background-color: #fdf2ff;
+}
+.tempor_clr {
+  color: #4f4a4f;
+}
+.similique_tab {
+  flex-direction: column;
+}
+.footer_line {
+  width: 100%;
+  float: center;
+}
+hr.style {
+  border-top: 1px solid gray;
+}
+.visa_size {
+  font-size: 32px;
+}
+
+.bg-card {
+  border: none;
+  border-radius: 0;
+  min-height: 200px;
+}
+
+.bg-card-img {
+  width: 50%;
+  height: 100px;
+}
+
+.bg-card-img img {
+  object-fit: contain;
+}
+
+.bg-screen {
+  background-image: url("/assets/images/smartwatchs.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.eaqpe_text_clr {
+  color: black;
+}
+.imacandsmartwatch {
+  width: 729px;
+}
